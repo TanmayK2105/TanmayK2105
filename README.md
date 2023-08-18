@@ -2,7 +2,7 @@
 
 ###
 <img src="https://raw.githubusercontent.com/shahriyor-sharifjonov/shahriyor-sharifjonov/master/coding-2.gif" align="center" height=600 width=900 autoplay>
-<p align="left">My name is Tanmay and I'm a Software Developer and a enthusiast Data Scientist</p>
+<h4><p align="left">My name is Tanmay I'm a Software Developer and a enthusiast Data Scientist</p></h4>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🧠 Final-year B.Tech student in Computer Science  🤖<br>🖥️ Passionate about creating AI and ML models 🌟<br>🧪 Applying machine learning algorithms to solve real-world problems <br>🔍 🎓 Aspiring to contribute to cutting-edge AI advancements 🌌</p>
+<i><b><p align="left">🧠 Final-year B.Tech student in Computer Science  🤖<br>🖥️ Passionate about creating AI and ML models 🌟<br>🧪 Applying machine learning algorithms to solve real-world problems <br>🔍 🎓 Aspiring to contribute to cutting-edge AI advancements 🌌</p></b></i>
 
 ###
 
